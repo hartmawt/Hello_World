@@ -1,2 +1,2 @@
-#Hello World Python Script
+#Hello World in Python 
 print ("Hello, World!")
