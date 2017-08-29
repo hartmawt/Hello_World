@@ -1,2 +1,9 @@
 # Hello_World
-A few hello world programs in 7 languages 
+Hello World programs written in:
+  --> JavaScript
+  --> Python
+  --> R
+  --> Ruby
+  --> PHP
+  --> Java
+  --> Go
