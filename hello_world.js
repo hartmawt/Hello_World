@@ -1,12 +1,7 @@
-<!DOCTYPE HTML>
 <html>
-<head>
-<script>
-function hw(){
-alert(“Hello, World!”) //Hello World in Javascript
-}
+<script language = "javascript">
+alert("Hello, World!"); //Hello World in Javascript
+//or
+//document.write("Hello, World!");
 </script>
-</head>
-<body>
-</body>
 </html>
