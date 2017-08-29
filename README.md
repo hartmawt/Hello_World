@@ -6,4 +6,4 @@ Hello World programs written in:
   --> Ruby
   --> PHP
   --> Java
-  --> Go
+  --> GO
