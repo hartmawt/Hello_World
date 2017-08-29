@@ -1,2 +1,4 @@
+<?
 //Hello World PHP Script
-echo("hello world");
+echo "hello world";
+?>
